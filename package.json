@@ -1,5 +1,5 @@
 {
-  "name": "pwa-planning-poker",
+  "name": "agile-poker",
   "version": "1.0.0",
   "description": "A Planning Poker Progressive Web Apps for Agile meetings",
   "main": "index.js",
