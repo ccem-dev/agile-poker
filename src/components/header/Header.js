@@ -1,6 +1,6 @@
 import React from 'react';
 
-import logo from '../../images/svgs/logo-white.svg';
+import logo from '../../images/icons/coruja-72x72.png';
 import styles from './styles.scss';
 
 const Header = () => (
